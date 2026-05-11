@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install *)",
+      "Bash(python 04-drift-detection/scripts/drift_detect.py)"
+    ]
+  }
+}
